@@ -2087,10 +2087,10 @@ background-color: var(--accent-color);
 .contact .php-email-form button[type=submit]:hover {
   background: color-mix(in srgb, var(--accent-color), transparent 25%);
 }
-.contact iframe {
+/*.contact iframe {
 	width: 400px;
 	height: 400px;
-}
+} */
 	
 /*@media (min-width: 960px) {
 .contact iframe {
