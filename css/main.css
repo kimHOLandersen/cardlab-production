@@ -2092,12 +2092,12 @@ background-color: var(--accent-color);
 	height: 400px;
 }
 	
-@media (min-width: 960px) {
+/*@media (min-width: 960px) {
 .contact iframe {
     max-width: 300px;
     max-height: 300px;
   }
-}
+}*/
 
 /*--------------------------------------------------------------
 # Portfolio Details Section
